@@ -1,0 +1,6 @@
+{
+  "issuer": "http://localhost:8080",
+  "authorization_endpoint": "http://localhost:8080/oauth2/v1/auth",
+  "token_endpoint": "http://localhost:8080/oauth2/v1/token",
+  "jwks_uri": "http://localhost:8080/oauth2/v1/certs"
+}

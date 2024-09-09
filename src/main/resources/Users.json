@@ -1,0 +1,15 @@
+{
+"John12" : {
+  "id" : "2324",
+  "username" : "John12",
+  "email" : "john@gmail.com",
+  "passwordHash" : "xyz*123"
+},
+
+  "Seema32" : {
+    "id" : "2334",
+    "username" : "Seema32",
+    "email" : "seema@gmail.com",
+    "passwordHash" : "abc*123"
+  }
+}
